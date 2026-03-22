@@ -1,0 +1,60 @@
+<svg viewBox="0 0 560 500" xmlns="http://www.w3.org/2000/svg" font-family="Calibri, Arial, sans-serif">
+  <!-- Title -->
+  <text x="280" y="28" text-anchor="middle" font-size="20" font-weight="700" fill="#1e1b4b">Self-Assessment Radar — Example Profile</text>
+
+  <!-- Grid circles at center 280,250 -->
+  <circle cx="280" cy="250" r="40" fill="none" stroke="#e5e7eb" stroke-width="1"/>
+  <circle cx="280" cy="250" r="80" fill="none" stroke="#e5e7eb" stroke-width="1"/>
+  <circle cx="280" cy="250" r="120" fill="none" stroke="#e5e7eb" stroke-width="1"/>
+  <circle cx="280" cy="250" r="160" fill="none" stroke="#ddd6fe" stroke-width="1"/>
+
+  <!-- Level labels on right axis -->
+  <text x="290" y="215" font-size="10" fill="#9ca3af">L1</text>
+  <text x="290" y="175" font-size="10" fill="#9ca3af">L2</text>
+  <text x="290" y="135" font-size="10" fill="#9ca3af">L3</text>
+  <text x="290" y="95" font-size="10" fill="#9ca3af">L4</text>
+
+  <!-- 5 axes (72 degrees apart) -->
+  <!-- A: top (0°) -->
+  <line x1="280" y1="250" x2="280" y2="90" stroke="#d1d5db" stroke-width="1"/>
+  <!-- B: top-right (72°) -->
+  <line x1="280" y1="250" x2="432" y2="151" stroke="#d1d5db" stroke-width="1"/>
+  <!-- C: bottom-right (144°) -->
+  <line x1="280" y1="250" x2="374" y2="399" stroke="#d1d5db" stroke-width="1"/>
+  <!-- D: bottom-left (216°) -->
+  <line x1="280" y1="250" x2="186" y2="399" stroke="#d1d5db" stroke-width="1"/>
+  <!-- E: top-left (288°) -->
+  <line x1="280" y1="250" x2="128" y2="151" stroke="#d1d5db" stroke-width="1"/>
+
+  <!-- Axis labels -->
+  <text x="280" y="74" text-anchor="middle" font-size="13" font-weight="600" fill="#374151">A: Task</text>
+  <text x="280" y="58" text-anchor="middle" font-size="13" font-weight="600" fill="#374151">Delegation</text>
+  <text x="448" y="148" text-anchor="start" font-size="13" font-weight="600" fill="#374151">B: Context</text>
+  <text x="448" y="164" text-anchor="start" font-size="13" font-weight="600" fill="#374151">Engineering</text>
+  <text x="390" y="418" text-anchor="start" font-size="13" font-weight="600" fill="#374151">C: Tooling</text>
+  <text x="88" y="418" text-anchor="end" font-size="13" font-weight="600" fill="#374151">D: Review &amp;</text>
+  <text x="88" y="434" text-anchor="end" font-size="13" font-weight="600" fill="#374151">Governance</text>
+  <text x="112" y="148" text-anchor="end" font-size="13" font-weight="600" fill="#374151">E: Systems</text>
+  <text x="112" y="164" text-anchor="end" font-size="13" font-weight="600" fill="#374151">Thinking</text>
+
+  <!-- Example uneven profile: A=3, B=2, C=1, D=2, E=1 -->
+  <!-- Points calculated for r=40 per level from center 280,250 -->
+  <!-- A=3: (280, 250-120) = (280, 130) -->
+  <!-- B=2: center + 80*sin(72°), center - 80*cos(72°) = (280+76, 250-25) = (356, 225) -->
+  <!-- C=1: center + 40*sin(144°), center - 40*cos(144°) = (280+24, 250+32) = (304, 282) -->
+  <!-- D=2: center + 80*sin(216°), center - 80*cos(216°) = (280-47, 250+65) = (233, 315) -->
+  <!-- E=1: center + 40*sin(288°), center - 40*cos(288°) = (280-38, 250+12) = (242, 262) -->
+  <polygon points="280,130 356,225 304,282 233,315 242,262" fill="#4f46e5" fill-opacity="0.15" stroke="#4f46e5" stroke-width="2.5"/>
+
+  <!-- Data points -->
+  <circle cx="280" cy="130" r="5" fill="#4f46e5"/>
+  <circle cx="356" cy="225" r="5" fill="#4f46e5"/>
+  <circle cx="304" cy="282" r="5" fill="#4f46e5"/>
+  <circle cx="233" cy="315" r="5" fill="#4f46e5"/>
+  <circle cx="242" cy="262" r="5" fill="#4f46e5"/>
+
+  <!-- Legend box -->
+  <rect x="60" y="455" width="440" height="38" rx="6" fill="#f5f3ff" stroke="#7c3aed" stroke-width="1"/>
+  <text x="280" y="472" text-anchor="middle" font-size="11" fill="#374151">Example: Strong delegation (L3), moderate context &amp; review (L2), weak tooling &amp; systems (L1)</text>
+  <text x="280" y="487" text-anchor="middle" font-size="11" fill="#7c3aed" font-weight="600">Action: Focus on Dimension C (Tooling) and E (Systems Thinking) first</text>
+</svg>

@@ -1,0 +1,45 @@
+<svg viewBox="0 0 820 420" xmlns="http://www.w3.org/2000/svg" font-family="Calibri, Arial, sans-serif">
+  <!-- Title -->
+  <text x="410" y="30" text-anchor="middle" font-size="20" font-weight="700" fill="#1e1b4b">Harness Components — Three Layers</text>
+
+  <!-- Layer labels on left -->
+  <text x="26" y="102" font-size="11" font-weight="700" fill="#7c3aed" transform="rotate(-90,26,102)">AUTOMATION</text>
+  <text x="26" y="242" font-size="11" font-weight="700" fill="#4f46e5" transform="rotate(-90,26,242)">ON DEMAND</text>
+  <text x="26" y="362" font-size="11" font-weight="700" fill="#059669" transform="rotate(-90,26,362)">FOUNDATION</text>
+
+  <!-- Foundation Layer -->
+  <rect x="50" y="320" width="740" height="80" rx="12" fill="#d1fae5" stroke="#10b981" stroke-width="1.5"/>
+  <rect x="70" y="338" width="160" height="36" rx="6" fill="#fff" stroke="#10b981" stroke-width="1"/>
+  <text x="150" y="361" text-anchor="middle" font-size="12" font-weight="600" fill="#065f46">CLAUDE.md</text>
+  <rect x="245" y="338" width="160" height="36" rx="6" fill="#fff" stroke="#10b981" stroke-width="1"/>
+  <text x="325" y="361" text-anchor="middle" font-size="12" font-weight="600" fill="#065f46">MCP Servers</text>
+  <rect x="420" y="338" width="120" height="36" rx="6" fill="#fff" stroke="#10b981" stroke-width="1"/>
+  <text x="480" y="361" text-anchor="middle" font-size="12" font-weight="600" fill="#065f46">Plugins</text>
+  <text x="570" y="352" font-size="10" fill="#374151">Always loaded. Sets the</text>
+  <text x="570" y="367" font-size="10" fill="#374151">baseline context for every session.</text>
+
+  <!-- On-Demand Layer -->
+  <rect x="50" y="195" width="740" height="110" rx="12" fill="#e0e7ff" stroke="#6366f1" stroke-width="1.5"/>
+  <rect x="70" y="216" width="150" height="36" rx="6" fill="#fff" stroke="#6366f1" stroke-width="1"/>
+  <text x="145" y="239" text-anchor="middle" font-size="12" font-weight="600" fill="#4338ca">Skills</text>
+  <rect x="235" y="216" width="150" height="36" rx="6" fill="#fff" stroke="#6366f1" stroke-width="1"/>
+  <text x="310" y="239" text-anchor="middle" font-size="12" font-weight="600" fill="#4338ca">Subagents</text>
+  <rect x="400" y="216" width="150" height="36" rx="6" fill="#fff" stroke="#6366f1" stroke-width="1"/>
+  <text x="475" y="239" text-anchor="middle" font-size="12" font-weight="600" fill="#4338ca">Slash Commands</text>
+  <text x="70" y="275" font-size="10" fill="#374151">Activated when needed. Domain expertise, specialised workers, and stored workflows.</text>
+  <text x="70" y="290" font-size="10" fill="#374151">Does not consume context until invoked — only descriptions are visible to the agent.</text>
+
+  <!-- Automation Layer -->
+  <rect x="50" y="55" width="740" height="125" rx="12" fill="#ede9fe" stroke="#7c3aed" stroke-width="1.5"/>
+  <rect x="70" y="78" width="180" height="36" rx="6" fill="#fff" stroke="#7c3aed" stroke-width="1"/>
+  <text x="160" y="101" text-anchor="middle" font-size="12" font-weight="600" fill="#6d28d9">Hooks (Pre / Post / Stop)</text>
+  <rect x="265" y="78" width="170" height="36" rx="6" fill="#fff" stroke="#7c3aed" stroke-width="1"/>
+  <text x="350" y="101" text-anchor="middle" font-size="12" font-weight="600" fill="#6d28d9">Scheduled Agents</text>
+  <rect x="450" y="78" width="160" height="36" rx="6" fill="#fff" stroke="#7c3aed" stroke-width="1"/>
+  <text x="530" y="101" text-anchor="middle" font-size="12" font-weight="600" fill="#6d28d9">Approval Gates</text>
+  <text x="70" y="140" font-size="10" fill="#374151">Runs in the background without human prompting. Enforces quality, security, and consistency</text>
+  <text x="70" y="155" font-size="10" fill="#374151">automatically — like guardrails on a highway. This is where most reliability comes from at Level 3+.</text>
+
+  <!-- Bottom caption -->
+  <text x="410" y="416" text-anchor="middle" font-size="11" fill="#6b7280" font-style="italic">As you progress from Level 1 to Level 4, you add layers. Level 1 has none; Level 4 uses all three.</text>
+</svg>

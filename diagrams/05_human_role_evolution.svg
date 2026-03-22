@@ -1,0 +1,59 @@
+<svg viewBox="0 0 800 340" xmlns="http://www.w3.org/2000/svg" font-family="Calibri, Arial, sans-serif">
+  <!-- Title -->
+  <text x="400" y="28" text-anchor="middle" font-size="20" font-weight="700" fill="#1e1b4b">How the Human's Role Evolves Across Levels</text>
+
+  <!-- Column headers -->
+  <text x="110" y="62" text-anchor="middle" font-size="14" font-weight="700" fill="#374151">Level 1</text>
+  <text x="290" y="62" text-anchor="middle" font-size="14" font-weight="700" fill="#374151">Level 2</text>
+  <text x="470" y="62" text-anchor="middle" font-size="14" font-weight="700" fill="#374151">Level 3</text>
+  <text x="650" y="62" text-anchor="middle" font-size="14" font-weight="700" fill="#374151">Level 4</text>
+
+  <!-- Dividers -->
+  <line x1="200" y1="50" x2="200" y2="310" stroke="#e5e7eb" stroke-width="1"/>
+  <line x1="380" y1="50" x2="380" y2="310" stroke="#e5e7eb" stroke-width="1"/>
+  <line x1="560" y1="50" x2="560" y2="310" stroke="#e5e7eb" stroke-width="1"/>
+
+  <!-- Row labels -->
+  <text x="785" y="107" text-anchor="end" font-size="11" fill="#6b7280">Writing code</text>
+  <text x="785" y="167" text-anchor="end" font-size="11" fill="#6b7280">Reviewing output</text>
+  <text x="785" y="227" text-anchor="end" font-size="11" fill="#6b7280">Designing systems</text>
+  <text x="785" y="287" text-anchor="end" font-size="11" fill="#6b7280">Governing quality</text>
+
+  <!-- Row separator lines -->
+  <line x1="20" y1="75" x2="720" y2="75" stroke="#f3f4f6" stroke-width="1"/>
+  <line x1="20" y1="135" x2="720" y2="135" stroke="#f3f4f6" stroke-width="1"/>
+  <line x1="20" y1="195" x2="720" y2="195" stroke="#f3f4f6" stroke-width="1"/>
+  <line x1="20" y1="255" x2="720" y2="255" stroke="#f3f4f6" stroke-width="1"/>
+
+  <!-- Level 1 bars -->
+  <rect x="30" y="88" width="155" height="26" rx="4" fill="#4f46e5" opacity="0.85"/>
+  <text x="108" y="106" text-anchor="middle" font-size="10" fill="#fff" font-weight="600">90% of time</text>
+  <rect x="30" y="148" width="30" height="26" rx="4" fill="#4f46e5" opacity="0.4"/>
+  <rect x="30" y="208" width="12" height="26" rx="4" fill="#4f46e5" opacity="0.25"/>
+  <rect x="30" y="268" width="6" height="26" rx="4" fill="#4f46e5" opacity="0.15"/>
+
+  <!-- Level 2 bars -->
+  <rect x="210" y="88" width="95" height="26" rx="4" fill="#4f46e5" opacity="0.6"/>
+  <rect x="210" y="148" width="130" height="26" rx="4" fill="#4f46e5" opacity="0.8"/>
+  <text x="275" y="166" text-anchor="middle" font-size="10" fill="#fff" font-weight="600">Primary focus</text>
+  <rect x="210" y="208" width="35" height="26" rx="4" fill="#4f46e5" opacity="0.3"/>
+  <rect x="210" y="268" width="18" height="26" rx="4" fill="#4f46e5" opacity="0.2"/>
+
+  <!-- Level 3 bars -->
+  <rect x="390" y="88" width="35" height="26" rx="4" fill="#4f46e5" opacity="0.35"/>
+  <rect x="390" y="148" width="80" height="26" rx="4" fill="#4f46e5" opacity="0.55"/>
+  <rect x="390" y="208" width="140" height="26" rx="4" fill="#4f46e5" opacity="0.85"/>
+  <text x="460" y="226" text-anchor="middle" font-size="10" fill="#fff" font-weight="600">Primary focus</text>
+  <rect x="390" y="268" width="70" height="26" rx="4" fill="#4f46e5" opacity="0.55"/>
+
+  <!-- Level 4 bars -->
+  <rect x="570" y="88" width="12" height="26" rx="4" fill="#4f46e5" opacity="0.15"/>
+  <rect x="570" y="148" width="45" height="26" rx="4" fill="#4f46e5" opacity="0.35"/>
+  <rect x="570" y="208" width="140" height="26" rx="4" fill="#4f46e5" opacity="0.9"/>
+  <text x="640" y="226" text-anchor="middle" font-size="10" fill="#fff" font-weight="600">Primary focus</text>
+  <rect x="570" y="268" width="140" height="26" rx="4" fill="#4f46e5" opacity="0.9"/>
+  <text x="640" y="286" text-anchor="middle" font-size="10" fill="#fff" font-weight="600">Primary focus</text>
+
+  <!-- Bottom caption -->
+  <text x="400" y="332" text-anchor="middle" font-size="11" fill="#6b7280" font-style="italic">The total effort doesn't decrease — it redirects from writing code toward designing systems and governing quality.</text>
+</svg>
