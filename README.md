@@ -1,7 +1,7 @@
 # From Prompting to Orchestration: A Developer's Field Guide to Agentic Coding
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-[![Status: 2026](https://img.shields.io/badge/Updated-2026-blue.svg)](https://github.com/leonhailstones/from-prompting-to-orchestration)
+[![Status: 2026](https://img.shields.io/badge/Updated-2026-blue.svg)](https://github.com/lhstorm/agentic_coding_field_guide_2026)
 [![Made with Claude](https://img.shields.io/badge/Co--authored%20with-Claude-8B5CF6.svg)](https://claude.ai)
 
 A comprehensive guide to understanding, designing, and implementing agentic coding systems in modern software development.
@@ -10,14 +10,16 @@ A comprehensive guide to understanding, designing, and implementing agentic codi
 
 This repository contains two complementary documents designed to guide developers through the agentic coding landscape:
 
-**Part 1: Research Briefing** — *From Prompting to Orchestration: A Developer's Field Guide to Agentic Coding*
+**[Part 1: Research Briefing](Part1_Research_Briefing.md)** — *From Prompting to Orchestration: A Developer's Field Guide to Agentic Coding*
+
 - A comprehensive overview of agentic coding in 2026
 - The four-level maturity model for AI integration
 - The agent harness concept: extending traditional test harnesses to wrap AI agents
 - Core patterns for context engineering, MCP servers, skills, and plugins
 - Analysis of the expanding agentic ecosystem and architectural patterns
 
-**Part 2: Progression Guide** — *A Hands-On Self-Assessment and Development Framework*
+**[Part 2: Progression Guide](Part2_Progression_Guide.md)** — *A Hands-On Self-Assessment and Development Framework*
+
 - Self-assessment framework for evaluating your current skills
 - Five-dimensional radar chart for skill mapping
 - Level-by-level progression roadmaps with clear milestones
@@ -25,6 +27,8 @@ This repository contains two complementary documents designed to guide developer
 - Actionable steps for advancing through the maturity levels
 
 ## The Four-Level Framework at a Glance
+
+![The Four Levels of Agentic Coding](diagrams/01_four_levels_staircase.png)
 
 | Level | Description | Focus |
 |-------|-------------|-------|
@@ -47,11 +51,11 @@ This repository contains two complementary documents designed to guide developer
 
 ## Getting Started
 
-**New to agentic coding?** Start with the self-assessment in Part 2 to understand where you stand, then use Part 1 as your reference guide for deep dives into specific concepts.
+**New to agentic coding?** Start with the self-assessment in [Part 2](Part2_Progression_Guide.md) to understand where you stand, then use [Part 1](Part1_Research_Briefing.md) as your reference guide for deep dives into specific concepts.
 
-**Experienced developer?** Jump to Part 1 for architectural patterns and ecosystem analysis, cross-referencing with Part 2's exercises for hands-on practice.
+**Experienced developer?** Jump to [Part 1](Part1_Research_Briefing.md) for architectural patterns and ecosystem analysis, cross-referencing with [Part 2](Part2_Progression_Guide.md)'s exercises for hands-on practice.
 
-**Implementing agents?** Focus on the agent harness section in Part 1 and the delegation-level exercises in Part 2.
+**Implementing agents?** Focus on the agent harness section in [Part 1](Part1_Research_Briefing.md) and the delegation-level exercises in [Part 2](Part2_Progression_Guide.md).
 
 ## Contributing
 
