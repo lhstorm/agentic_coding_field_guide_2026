@@ -1,0 +1,40 @@
+<svg viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg" font-family="Calibri, Arial, sans-serif">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#e0e7ff"/><stop offset="100%" stop-color="#c7d2fe"/></linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#c7d2fe"/><stop offset="100%" stop-color="#a5b4fc"/></linearGradient>
+    <linearGradient id="g3" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#a5b4fc"/><stop offset="100%" stop-color="#818cf8"/></linearGradient>
+    <linearGradient id="g4" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#818cf8"/><stop offset="100%" stop-color="#4f46e5"/></linearGradient>
+    <marker id="arr" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto"><path d="M0,0 L10,3.5 L0,7" fill="#7c3aed"/></marker>
+  </defs>
+  <text x="450" y="36" text-anchor="middle" font-size="22" font-weight="700" fill="#1e1b4b">The Four Levels of Agentic Coding</text>
+  <rect x="30" y="340" width="195" height="110" rx="10" fill="url(#g1)" stroke="#6366f1" stroke-width="1.5"/>
+  <text x="128" y="370" text-anchor="middle" font-size="15" font-weight="700" fill="#3730a3">Level 1</text>
+  <text x="128" y="390" text-anchor="middle" font-size="13" font-weight="600" fill="#4338ca">ASSISTANCE</text>
+  <text x="128" y="414" text-anchor="middle" font-size="11" fill="#374151">You drive,</text>
+  <text x="128" y="429" text-anchor="middle" font-size="11" fill="#374151">AI rides shotgun</text>
+  <rect x="245" y="250" width="195" height="110" rx="10" fill="url(#g2)" stroke="#6366f1" stroke-width="1.5"/>
+  <text x="343" y="280" text-anchor="middle" font-size="15" font-weight="700" fill="#3730a3">Level 2</text>
+  <text x="343" y="300" text-anchor="middle" font-size="13" font-weight="600" fill="#4338ca">AUGMENTATION</text>
+  <text x="343" y="324" text-anchor="middle" font-size="11" fill="#374151">You set goals,</text>
+  <text x="343" y="339" text-anchor="middle" font-size="11" fill="#374151">AI finds the path</text>
+  <rect x="460" y="160" width="195" height="110" rx="10" fill="url(#g3)" stroke="#6366f1" stroke-width="1.5"/>
+  <text x="558" y="190" text-anchor="middle" font-size="15" font-weight="700" fill="#1e1b4b">Level 3</text>
+  <text x="558" y="210" text-anchor="middle" font-size="13" font-weight="600" fill="#312e81">DELEGATION</text>
+  <text x="558" y="234" text-anchor="middle" font-size="11" fill="#1e1b4b">You orchestrate,</text>
+  <text x="558" y="249" text-anchor="middle" font-size="11" fill="#1e1b4b">agents build</text>
+  <rect x="675" y="70" width="195" height="110" rx="10" fill="url(#g4)" stroke="#4f46e5" stroke-width="1.5"/>
+  <text x="773" y="100" text-anchor="middle" font-size="15" font-weight="700" fill="#fff">Level 4</text>
+  <text x="773" y="120" text-anchor="middle" font-size="13" font-weight="600" fill="#e0e7ff">AUTONOMY</text>
+  <text x="773" y="144" text-anchor="middle" font-size="11" fill="#c7d2fe">You architect systems,</text>
+  <text x="773" y="159" text-anchor="middle" font-size="11" fill="#c7d2fe">agents own lifecycle</text>
+  <path d="M225,370 Q235,320 245,310" stroke="#7c3aed" stroke-width="2" fill="none" marker-end="url(#arr)"/>
+  <rect x="180" y="305" width="110" height="24" rx="4" fill="#f5f3ff" stroke="#7c3aed" stroke-width="0.8"/>
+  <text x="235" y="321" text-anchor="middle" font-size="9" fill="#7c3aed" font-weight="600">CLAUDE.md + MCP</text>
+  <path d="M440,280 Q450,230 460,220" stroke="#7c3aed" stroke-width="2" fill="none" marker-end="url(#arr)"/>
+  <rect x="388" y="215" width="120" height="24" rx="4" fill="#f5f3ff" stroke="#7c3aed" stroke-width="0.8"/>
+  <text x="448" y="231" text-anchor="middle" font-size="9" fill="#7c3aed" font-weight="600">Skills + Subagents</text>
+  <path d="M655,190 Q665,140 675,130" stroke="#7c3aed" stroke-width="2" fill="none" marker-end="url(#arr)"/>
+  <rect x="600" y="125" width="120" height="24" rx="4" fill="#f5f3ff" stroke="#7c3aed" stroke-width="0.8"/>
+  <text x="660" y="141" text-anchor="middle" font-size="9" fill="#7c3aed" font-weight="600">Orchestration</text>
+  <text x="450" y="472" text-anchor="middle" font-size="11" fill="#6b7280" font-style="italic">Each step up requires a specific unlock — a new capability that makes the next level reliable, not just possible.</text>
+</svg>
