@@ -477,7 +477,7 @@ Launched by Google with 50+ enterprise partners including Salesforce and Service
 
 ## Companion Guide
 
-This Research Briefing is Part 1 of a two-part series. **Part 2: The Progression Guide** provides a hands-on self-assessment framework, level-by-level progression roadmaps, and practical exercises to help you and your team advance through the four levels of agentic coding maturity.
+This Research Briefing is Part 1 of a two-part series. **[Part 2: The Progression Guide](Part2_Progression_Guide.md)** provides a hands-on self-assessment framework, level-by-level progression roadmaps, and practical exercises to help you and your team advance through the four levels of agentic coding maturity.
 
 ---
 
