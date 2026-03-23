@@ -395,7 +395,7 @@ The goal is not to reach Level 4 as fast as possible. It is to be accurately and
 
 ## Companion Document
 
-This Progression Guide is Part 2 of a two-part series. **Part 1: The Research Briefing** covers the landscape of agentic coding in 2026 — the four-level maturity model, harness architecture, context engineering patterns, and the broader industry trends shaping how developers work with AI agents.
+This Progression Guide is Part 2 of a two-part series. **[Part 1: The Research Briefing](Part1_Research_Briefing.md)** covers the landscape of agentic coding in 2026 — the four-level maturity model, harness architecture, context engineering patterns, and the broader industry trends shaping how developers work with AI agents.
 
 ---
 
