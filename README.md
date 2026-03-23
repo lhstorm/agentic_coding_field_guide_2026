@@ -84,7 +84,7 @@ See [LICENSE](LICENSE) for the full text.
 
 ## AI Transparency
 
-This guide was co-authored by Leon Hailstones with the assistance of Claude (Anthropic). The research framework, editorial direction, and all factual claims were developed and verified by the human author. Claude contributed to drafting, structuring, fact-checking, diagram creation, and document formatting. All diagrams were generated programmatically using SVG and Python.
+This guide was co-authored by Leon Hailstones with the assistance of Claude (Anthropic). 
 
 We believe in transparent AI attribution. As AI systems become integral to knowledge work, clear disclosure of AI involvement ensures readers can evaluate sources and contributions appropriately.
 
