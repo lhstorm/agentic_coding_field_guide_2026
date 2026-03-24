@@ -472,4 +472,4 @@ This Research Briefing is Part 1 of a two-part series. **[Part 2: The Progressio
 
 ## AI Transparency Note
 
-This document was co-authored by Leon Hailstones with the assistance of Claude (Anthropic). The research framework, editorial direction, and all factual claims were developed and verified by the human author. Claude contributed to drafting, structuring, fact-checking, diagram creation, and document formatting. All diagrams were generated programmatically using SVG and Python. This transparency note itself is part of our commitment to honest AI attribution — a practice we believe the developer community should normalise.
+This document was co-authored by Leon Hailstones with the assistance of Claude (Anthropic). This transparency note itself is part of our commitment to honest AI attribution — a practice we believe the developer community should normalise.
