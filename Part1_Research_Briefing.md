@@ -12,17 +12,6 @@ Agentic coding — where AI agents autonomously plan, execute, and iterate on so
 
 This briefing covers three interconnected topics that developers need to understand together: (1) the four levels of agentic coding progression, (2) the agent harness — the system of scaffolding, context files, tools, and feedback loops that makes agents reliable, and (3) the expanding ecosystem of skills, plugins, MCP servers, and subagents that allows teams to dramatically automate and extend their development workflows.
 
-### Key Statistics
-
-| Metric | Figure | Source | Context |
-|--------|--------|--------|---------|
-| US developers using AI daily | 92% | Dev.to 2026 | Up from ~60% in 2024 |
-| AI share of daily dev work | ~60% | Anthropic 2026 | But only 0–20% fully delegatable |
-| Multi-agent inquiry growth (Q1 '24–Q2 '25) | +1,445% | Gartner | Fastest-growing dev trend |
-| Enterprise apps with task-specific agents (est. 2026) | 40% | Gartner prediction | Governance now required |
-| Stripe's AI-generated PRs per week | 1,300+ | Stripe blog via NxCode | Zero human-written code, steps 1–5 |
-| LangChain harness improvement (same model) | 52.8% → 66.5% | LangChain blog via NxCode | Changed harness only, not model |
-
 ---
 
 ## What Is Agentic Coding?
