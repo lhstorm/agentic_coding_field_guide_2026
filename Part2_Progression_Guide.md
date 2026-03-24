@@ -398,7 +398,3 @@ The goal is not to reach Level 4 as fast as possible. It is to be accurately and
 This Progression Guide is Part 2 of a two-part series. **[Part 1: The Research Briefing](Part1_Research_Briefing.md)** covers the landscape of agentic coding in 2026 — the four-level maturity model, harness architecture, context engineering patterns, and the broader industry trends shaping how developers work with AI agents.
 
 ---
-
-## AI Transparency Note
-
-This document was co-authored by Leon Hailstones with the assistance of Claude (Anthropic). The research framework, editorial direction, and all factual claims were developed and verified by the human author. Claude contributed to drafting, structuring, fact-checking, diagram creation, and document formatting. All diagrams were generated programmatically using SVG and Python. This transparency note itself is part of our commitment to honest AI attribution — a practice we believe the developer community should normalise.
